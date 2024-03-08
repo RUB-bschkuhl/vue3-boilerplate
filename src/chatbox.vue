@@ -9,12 +9,9 @@
                     <div class="form-group">
                         <textarea class="form-control" rows="5" id="prompt-input" placeholder="Add your prompt here..."></textarea>
                     </div>
-                    <div class="mt-2">
-                        <button type="submit" class="btn btn-primary mb-3">Get Suggestions</button>
-                    </div>
                 </form>
             </div>
-            <button type="button" class="btn mb-3 w-100" data-toggle="collapse" data-target="#collapse-card" aria-expanded="true" aria-controls="card">^</button>
+            <button type="button" class="btn mb-1 mt-2 w-100" data-toggle="collapse" data-target="#collapse-card" aria-expanded="true" aria-controls="card">^</button>
         </div>
     </div>
 

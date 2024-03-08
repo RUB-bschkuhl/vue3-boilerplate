@@ -4,11 +4,10 @@
         <div class="row  my-4">
             <div class="col-6">
                 <Chatbox></Chatbox>
-                <Transcript></Transcript>
+                <Transcript class="mt-3"></Transcript>
             </div>
             <div class="col-6">
                 <Suggestions></Suggestions>
-                <!--<textarea class="form-control" rows="10" placeholder="Suggestions will appear here..." readonly></textarea>-->
             </div>
         </div>
     </div>
