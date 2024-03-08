@@ -6,8 +6,9 @@ module.exports = merge(common, {
     mode: 'development',
     devtool: 'inline-source-map',
     devServer: {
-        static: './dist',
+        static: '..slack-whisper-py/dist',
         open: true,
-        hot: true
+        hot: true,
+        port: 8081
     }
 })
